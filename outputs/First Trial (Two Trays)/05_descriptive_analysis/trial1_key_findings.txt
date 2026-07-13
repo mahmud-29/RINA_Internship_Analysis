@@ -1,0 +1,17 @@
+TRIAL 1 — DESCRIPTIVE FINDINGS
+
+Final observed day: Day 4
+
+Microbes:
+- Germinated cells: 50/70
+- Germination estimate: 71.43%
+
+No Microbes:
+- Germinated cells: 54/70
+- Germination estimate: 77.14%
+
+Descriptive comparison:
+- No Microbes had a 5.71-percentage-point higher automated estimate on Day 4.
+- Trial 1 has one tray per treatment.
+- This result is descriptive, not a statistical efficacy claim.
+- Automated visible-green detection requires visual or manual validation.

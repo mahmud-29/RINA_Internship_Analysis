@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# --------------------------------------------------
+# RINA Internship project exclusions
+# --------------------------------------------------
+
+# Raw experimental dataset — keep only on this computer
+dataset/
+
+# Backup and compressed files
+*.zip
+*.rar
+*.7z
+
+# Sensitive files
+*.key
+*.pem
+
+# Windows system files
+Thumbs.db
+desktop.ini

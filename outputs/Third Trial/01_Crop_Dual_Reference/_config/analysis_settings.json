@@ -1,0 +1,16 @@
+{
+  "rows": 7,
+  "columns": 10,
+  "cells_per_tray": 70,
+  "standard_width": 1200,
+  "standard_height": 840,
+  "require_complete_day": true,
+  "heat_starts_inside": true,
+  "green_h_min": 25,
+  "green_h_max": 100,
+  "green_s_min": 35,
+  "green_v_min": 25,
+  "excess_green_min": 15,
+  "emerged_green_cover_pct": 0.25,
+  "ndvi_vegetation_threshold": 0.15
+}

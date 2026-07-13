@@ -1,0 +1,13 @@
+tray_no,microbe_status,stress_type,assigned_environment,tray,treatment_group,design_group
+1,No Microbe,Ideal,Inside,Tray 1,No Microbe | Ideal,No Microbe | Ideal | Inside
+2,No Microbe,Ideal,Outside,Tray 2,No Microbe | Ideal,No Microbe | Ideal | Outside
+3,No Microbe,Moisture,Outside,Tray 3,No Microbe | Moisture,No Microbe | Moisture | Outside
+4,No Microbe,Heat,Alternating,Tray 4,No Microbe | Heat,No Microbe | Heat | Alternating
+5,Microbe,Moisture,Inside,Tray 5,Microbe | Moisture,Microbe | Moisture | Inside
+6,Microbe,Heat,Alternating,Tray 6,Microbe | Heat,Microbe | Heat | Alternating
+7,Microbe,Ideal,Outside,Tray 7,Microbe | Ideal,Microbe | Ideal | Outside
+8,Microbe,Heat,Alternating,Tray 8,Microbe | Heat,Microbe | Heat | Alternating
+9,Microbe,Ideal,Inside,Tray 9,Microbe | Ideal,Microbe | Ideal | Inside
+10,Microbe,Moisture,Outside,Tray 10,Microbe | Moisture,Microbe | Moisture | Outside
+11,No Microbe,Heat,Alternating,Tray 11,No Microbe | Heat,No Microbe | Heat | Alternating
+12,No Microbe,Moisture,Inside,Tray 12,No Microbe | Moisture,No Microbe | Moisture | Inside

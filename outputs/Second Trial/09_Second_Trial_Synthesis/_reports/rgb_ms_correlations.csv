@@ -1,0 +1,7 @@
+rgb_metric,multispectral_metric,valid_observations,pearson_correlation
+tracked_emergence_percent,mean_cell_ndvi,33,-0.03768481714482605
+tracked_emergence_percent,mean_cell_ndre,33,-0.2485905320839119
+tracked_emergence_percent,mean_cell_gndvi,33,-0.3402715417828522
+mean_green_cover_percent,mean_cell_ndvi,33,-0.12533893085233175
+mean_green_cover_percent,mean_cell_ndre,33,-0.4208422162794708
+mean_green_cover_percent,mean_cell_gndvi,33,-0.4920910790987317

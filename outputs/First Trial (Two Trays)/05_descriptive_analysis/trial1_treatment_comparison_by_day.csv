@@ -1,0 +1,4 @@
+day,microbes_germinated_cells,no_microbes_germinated_cells,microbes_percent,no_microbes_percent,difference_microbes_minus_no_microbes_percentage_points
+1,26,37,37.14,52.86,-15.72
+3,45,48,64.29,68.57,-4.28
+4,50,54,71.43,77.14,-5.71

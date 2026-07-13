@@ -1,0 +1,3 @@
+treatment,first_observed_day,final_observed_day,first_germination_percent,final_germination_percent,increase_percentage_points,average_increase_per_day_percentage_points,observed_germination_curve_auc
+Microbes,1,4,37.14,71.43,34.29,11.43,169.29
+No Microbes,1,4,52.86,77.14,24.28,8.09,194.28

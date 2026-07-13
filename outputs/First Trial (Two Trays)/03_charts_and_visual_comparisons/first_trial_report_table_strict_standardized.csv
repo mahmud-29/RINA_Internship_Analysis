@@ -1,0 +1,7 @@
+treatment,day,total_cells,estimated_germinated_cells,estimated_germination_percent,cumulative_germinated_cells,cumulative_germination_percent,count_decreased_before_correction
+Microbes,1,70,26,37.14,26,37.14,False
+Microbes,3,70,45,64.29,45,64.29,False
+Microbes,4,70,50,71.43,50,71.43,False
+No Microbes,1,70,37,52.86,37,52.86,False
+No Microbes,3,70,48,68.57,48,68.57,False
+No Microbes,4,70,54,77.14,54,77.14,False

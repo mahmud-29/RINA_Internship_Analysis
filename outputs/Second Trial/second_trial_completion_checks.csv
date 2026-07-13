@@ -1,0 +1,12 @@
+check,actual,expected,pass
+Complete five-band groups selected,33,33,True
+Crop-manifest rows,33,33,True
+Failed crop rows,0,0,True
+Crop-QA FAIL rows,2,0,False
+RGB grid cell coordinates,2310,2310,True
+RGB visible-emergence results,2310,2310,True
+Multispectral grid coordinates,2310,2310,True
+Multispectral index results,2310,2310,True
+Tray-level synthesis rows,9,9,True
+Synthesis PDF exists,True,True,True
+Report ZIP exists,True,True,True

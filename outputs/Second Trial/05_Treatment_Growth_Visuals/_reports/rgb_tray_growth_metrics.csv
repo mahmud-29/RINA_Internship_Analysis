@@ -1,0 +1,10 @@
+tray_no,tray,treatment,environment,interaction,day1_emergence_percent,day5_emergence_percent,day9_emergence_percent,day1_green_cover_percent,day5_green_cover_percent,day9_green_cover_percent,day1_to_day5_emergence_change_pp,day5_to_day9_emergence_change_pp,day1_to_day5_green_cover_change_pp,day5_to_day9_green_cover_change_pp
+1,Tray 1,No Microbes,Inside,No Microbes | Inside,5.714285714285714,,51.42857142857142,0.02295436132865244,,2.9049081825546854,,,,
+2,Tray 2,No Microbes,Inside,No Microbes | Inside,7.142857142857142,,,0.049115581960572516,,,,,,
+3,Tray 3,No Microbes,Outside,No Microbes | Outside,30.0,,60.0,0.47782203618687547,,1.3683162300837157,,,,
+4,Tray 4,No Microbes,Outside,No Microbes | Outside,14.285714285714285,,,0.11899135835808802,,,,,,
+5,Tray 5,Microbes,Inside,Microbes | Inside,2.857142857142857,,78.57142857142857,0.021266540642722116,,5.377565487442614,,,,
+6,Tray 6,Microbes,Outside,Microbes | Outside,25.71428571428571,,48.57142857142857,0.40102619497704567,,1.0265325411828248,,,,
+7,Tray 7,Microbes,Outside,Microbes | Outside,25.71428571428571,,60.0,0.2681947069943289,,1.35295706184175,,,,
+8,Tray 8,Microbes,Inside,Microbes | Inside,7.142857142857142,,68.57142857142857,0.0811841749932487,,5.008439103429652,,,,
+9,Tray 9,Unknown,Unknown,Unknown | Unknown,,,,,,,,,,

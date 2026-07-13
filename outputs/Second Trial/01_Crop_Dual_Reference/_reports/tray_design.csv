@@ -1,0 +1,10 @@
+tray_no,treatment,environment,tray,interaction
+1,No Microbes,Inside,Tray 1,No Microbes | Inside
+2,No Microbes,Inside,Tray 2,No Microbes | Inside
+3,No Microbes,Outside,Tray 3,No Microbes | Outside
+4,No Microbes,Outside,Tray 4,No Microbes | Outside
+5,Microbes,Inside,Tray 5,Microbes | Inside
+6,Microbes,Outside,Tray 6,Microbes | Outside
+7,Microbes,Outside,Tray 7,Microbes | Outside
+8,Microbes,Inside,Tray 8,Microbes | Inside
+9,Unknown,Unknown,Tray 9,Unknown | Unknown

@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+opencv-python
+scipy
+scikit-learn
+scikit-image
+rasterio
+tifffile
+openpyxl
+jupyter

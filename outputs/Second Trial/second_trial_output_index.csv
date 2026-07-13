@@ -1,0 +1,563 @@
+section,relative_path,extension,size_kb
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\_config\crop_points.json,.json,30.05
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\_reports\crop_manifest.csv,.csv,24.71
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\_reports\raw_dataset_manifest.csv,.csv,26.9
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\_reports\selected_complete_groups.csv,.csv,20.75
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\_reports\tray_design.csv,.csv,0.46
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 1\_diagnostics\DJI_20260618123542_0001_D_click_diagnostic.jpg,.jpg,6239.87
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 1\_diagnostics\DJI_20260618123542_0001_MS_NIR_click_diagnostic.jpg,.jpg,1433.9
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 1\DJI_20260618123542_0001_D.JPG,.jpg,1229.85
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 1\DJI_20260618123542_0001_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 1\DJI_20260618123542_0001_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 1\DJI_20260618123542_0001_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 1\DJI_20260618123542_0001_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 2\_diagnostics\DJI_20260618123812_0002_D_click_diagnostic.jpg,.jpg,6259.42
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 2\_diagnostics\DJI_20260618123812_0002_MS_NIR_click_diagnostic.jpg,.jpg,1441.95
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 2\DJI_20260618123812_0002_D.JPG,.jpg,1271.63
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 2\DJI_20260618123812_0002_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 2\DJI_20260618123812_0002_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 2\DJI_20260618123812_0002_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 2\DJI_20260618123812_0002_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 3\_diagnostics\DJI_20260618124121_0003_D_click_diagnostic.jpg,.jpg,6958.4
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 3\_diagnostics\DJI_20260618124121_0003_MS_NIR_click_diagnostic.jpg,.jpg,1369.44
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 3\DJI_20260618124121_0003_D.JPG,.jpg,1353.82
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 3\DJI_20260618124121_0003_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 3\DJI_20260618124121_0003_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 3\DJI_20260618124121_0003_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 3\DJI_20260618124121_0003_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 4\_diagnostics\DJI_20260618124235_0004_D_click_diagnostic.jpg,.jpg,6536.49
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 4\_diagnostics\DJI_20260618124235_0004_MS_NIR_click_diagnostic.jpg,.jpg,1350.66
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 4\DJI_20260618124235_0004_D.JPG,.jpg,1211.35
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 4\DJI_20260618124235_0004_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 4\DJI_20260618124235_0004_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 4\DJI_20260618124235_0004_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 4\DJI_20260618124235_0004_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 5\_diagnostics\DJI_20260618124331_0005_D_click_diagnostic.jpg,.jpg,6954.98
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 5\_diagnostics\DJI_20260618124331_0005_MS_NIR_click_diagnostic.jpg,.jpg,1383.39
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 5\DJI_20260618124331_0005_D.JPG,.jpg,1319.13
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 5\DJI_20260618124331_0005_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 5\DJI_20260618124331_0005_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 5\DJI_20260618124331_0005_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 5\DJI_20260618124331_0005_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 6\_diagnostics\DJI_20260618124449_0006_D_click_diagnostic.jpg,.jpg,6578.62
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 6\_diagnostics\DJI_20260618124449_0006_MS_NIR_click_diagnostic.jpg,.jpg,1361.05
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 6\DJI_20260618124449_0006_D.JPG,.jpg,1226.66
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 6\DJI_20260618124449_0006_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 6\DJI_20260618124449_0006_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 6\DJI_20260618124449_0006_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 6\DJI_20260618124449_0006_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 7\_diagnostics\DJI_20260618124541_0007_D_click_diagnostic.jpg,.jpg,6886.72
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 7\_diagnostics\DJI_20260618124541_0007_MS_NIR_click_diagnostic.jpg,.jpg,1360.14
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 7\DJI_20260618124541_0007_D.JPG,.jpg,1308.31
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 7\DJI_20260618124541_0007_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 7\DJI_20260618124541_0007_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 7\DJI_20260618124541_0007_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 7\DJI_20260618124541_0007_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 8\_diagnostics\DJI_20260618124632_0008_D_click_diagnostic.jpg,.jpg,6743.16
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 8\_diagnostics\DJI_20260618124632_0008_MS_NIR_click_diagnostic.jpg,.jpg,1368.93
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 8\DJI_20260618124632_0008_D.JPG,.jpg,1223.76
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 8\DJI_20260618124632_0008_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 8\DJI_20260618124632_0008_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 8\DJI_20260618124632_0008_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 1\Tray 8\DJI_20260618124632_0008_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 1\_diagnostics\DJI_20260620131000_0001_D_click_diagnostic.jpg,.jpg,5808.52
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 1\_diagnostics\DJI_20260620131000_0001_MS_NIR_click_diagnostic.jpg,.jpg,1353.72
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 1\DJI_20260620131000_0001_D.JPG,.jpg,1176.36
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 1\DJI_20260620131000_0001_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 1\DJI_20260620131000_0001_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 1\DJI_20260620131000_0001_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 1\DJI_20260620131000_0001_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 2\_diagnostics\DJI_20260620131052_0002_D_click_diagnostic.jpg,.jpg,6169.28
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 2\_diagnostics\DJI_20260620131052_0002_MS_NIR_click_diagnostic.jpg,.jpg,1356.41
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 2\DJI_20260620131052_0002_D.JPG,.jpg,1283.72
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 2\DJI_20260620131052_0002_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 2\DJI_20260620131052_0002_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 2\DJI_20260620131052_0002_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 2\DJI_20260620131052_0002_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 3\_diagnostics\DJI_20260620131152_0003_D_click_diagnostic.jpg,.jpg,5780.22
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 3\_diagnostics\DJI_20260620131152_0003_MS_NIR_click_diagnostic.jpg,.jpg,1346.56
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 3\DJI_20260620131152_0003_D.JPG,.jpg,1197.04
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 3\DJI_20260620131152_0003_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 3\DJI_20260620131152_0003_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 3\DJI_20260620131152_0003_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 3\DJI_20260620131152_0003_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 4\_diagnostics\DJI_20260620131233_0004_D_click_diagnostic.jpg,.jpg,6019.27
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 4\_diagnostics\DJI_20260620131233_0004_MS_NIR_click_diagnostic.jpg,.jpg,1372.91
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 4\DJI_20260620131233_0004_D.JPG,.jpg,1264.62
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 4\DJI_20260620131233_0004_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 4\DJI_20260620131233_0004_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 4\DJI_20260620131233_0004_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 4\DJI_20260620131233_0004_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 5\_diagnostics\DJI_20260620131340_0005_D_click_diagnostic.jpg,.jpg,5832.01
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 5\_diagnostics\DJI_20260620131340_0005_MS_NIR_click_diagnostic.jpg,.jpg,1357.86
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 5\DJI_20260620131340_0005_D.JPG,.jpg,1219.53
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 5\DJI_20260620131340_0005_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 5\DJI_20260620131340_0005_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 5\DJI_20260620131340_0005_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 5\DJI_20260620131340_0005_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 6\_diagnostics\DJI_20260620131437_0006_D_click_diagnostic.jpg,.jpg,6201.46
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 6\_diagnostics\DJI_20260620131437_0006_MS_NIR_click_diagnostic.jpg,.jpg,1377.19
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 6\DJI_20260620131437_0006_D.JPG,.jpg,1293.17
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 6\DJI_20260620131437_0006_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 6\DJI_20260620131437_0006_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 6\DJI_20260620131437_0006_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 6\DJI_20260620131437_0006_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 7\_diagnostics\DJI_20260620131539_0007_D_click_diagnostic.jpg,.jpg,6379.09
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 7\_diagnostics\DJI_20260620131539_0007_MS_NIR_click_diagnostic.jpg,.jpg,1383.85
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 7\DJI_20260620131539_0007_D.JPG,.jpg,1337.34
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 7\DJI_20260620131539_0007_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 7\DJI_20260620131539_0007_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 7\DJI_20260620131539_0007_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 7\DJI_20260620131539_0007_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 8\_diagnostics\DJI_20260620131623_0008_D_click_diagnostic.jpg,.jpg,6010.19
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 8\_diagnostics\DJI_20260620131623_0008_MS_NIR_click_diagnostic.jpg,.jpg,1365.85
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 8\DJI_20260620131623_0008_D.JPG,.jpg,1318.15
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 8\DJI_20260620131623_0008_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 8\DJI_20260620131623_0008_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 8\DJI_20260620131623_0008_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 2\Tray 8\DJI_20260620131623_0008_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 4\_diagnostics\DJI_20260621125808_0004_D_click_diagnostic.jpg,.jpg,7667.78
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 4\_diagnostics\DJI_20260621125808_0004_MS_NIR_click_diagnostic.jpg,.jpg,1256.81
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 4\DJI_20260621125808_0004_D.JPG,.jpg,1273.5
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 4\DJI_20260621125808_0004_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 4\DJI_20260621125808_0004_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 4\DJI_20260621125808_0004_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 4\DJI_20260621125808_0004_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 5\_diagnostics\DJI_20260621125931_0005_D_click_diagnostic.jpg,.jpg,7470.74
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 5\_diagnostics\DJI_20260621125931_0005_MS_NIR_click_diagnostic.jpg,.jpg,1184.36
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 5\DJI_20260621125931_0005_D.JPG,.jpg,1261.43
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 5\DJI_20260621125931_0005_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 5\DJI_20260621125931_0005_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 5\DJI_20260621125931_0005_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 5\DJI_20260621125931_0005_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 7\_diagnostics\DJI_20260621130015_0007_D_click_diagnostic.jpg,.jpg,7512.43
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 7\_diagnostics\DJI_20260621130015_0007_MS_NIR_click_diagnostic.jpg,.jpg,1269.01
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 7\DJI_20260621130015_0007_D.JPG,.jpg,1324.1
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 7\DJI_20260621130015_0007_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 7\DJI_20260621130015_0007_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 7\DJI_20260621130015_0007_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 7\DJI_20260621130015_0007_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 9\_diagnostics\DJI_20260621130058_0009_D_click_diagnostic.jpg,.jpg,8033.41
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 9\_diagnostics\DJI_20260621130058_0009_MS_NIR_click_diagnostic.jpg,.jpg,1259.94
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 9\DJI_20260621130058_0009_D.JPG,.jpg,1383.98
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 9\DJI_20260621130058_0009_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 9\DJI_20260621130058_0009_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 9\DJI_20260621130058_0009_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 3\Tray 9\DJI_20260621130058_0009_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 1\_diagnostics\DJI_20260622122222_0001_D_click_diagnostic.jpg,.jpg,6144.67
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 1\_diagnostics\DJI_20260622122222_0001_MS_NIR_click_diagnostic.jpg,.jpg,1290.05
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 1\DJI_20260622122222_0001_D.JPG,.jpg,1190.98
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 1\DJI_20260622122222_0001_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 1\DJI_20260622122222_0001_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 1\DJI_20260622122222_0001_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 1\DJI_20260622122222_0001_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 2\_diagnostics\DJI_20260622122329_0002_D_click_diagnostic.jpg,.jpg,6274.44
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 2\_diagnostics\DJI_20260622122329_0002_MS_NIR_click_diagnostic.jpg,.jpg,1290.16
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 2\DJI_20260622122329_0002_D.JPG,.jpg,1269.79
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 2\DJI_20260622122329_0002_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 2\DJI_20260622122329_0002_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 2\DJI_20260622122329_0002_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 2\DJI_20260622122329_0002_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 3\_diagnostics\DJI_20260622122437_0003_D_click_diagnostic.jpg,.jpg,6001.32
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 3\_diagnostics\DJI_20260622122437_0003_MS_NIR_click_diagnostic.jpg,.jpg,1302.57
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 3\DJI_20260622122437_0003_D.JPG,.jpg,1253.67
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 3\DJI_20260622122437_0003_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 3\DJI_20260622122437_0003_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 3\DJI_20260622122437_0003_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 3\DJI_20260622122437_0003_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 5\_diagnostics\DJI_20260622122624_0005_D_click_diagnostic.jpg,.jpg,5913.89
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 5\_diagnostics\DJI_20260622122624_0005_MS_NIR_click_diagnostic.jpg,.jpg,1292.5
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 5\DJI_20260622122624_0005_D.JPG,.jpg,1209.89
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 5\DJI_20260622122624_0005_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 5\DJI_20260622122624_0005_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 5\DJI_20260622122624_0005_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 5\DJI_20260622122624_0005_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 6\_diagnostics\DJI_20260622122657_0006_D_click_diagnostic.jpg,.jpg,6301.5
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 6\_diagnostics\DJI_20260622122657_0006_MS_NIR_click_diagnostic.jpg,.jpg,1272.38
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 6\DJI_20260622122657_0006_D.JPG,.jpg,1283.03
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 6\DJI_20260622122657_0006_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 6\DJI_20260622122657_0006_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 6\DJI_20260622122657_0006_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 6\DJI_20260622122657_0006_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 7\_diagnostics\DJI_20260622122752_0007_D_click_diagnostic.jpg,.jpg,6205.33
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 7\_diagnostics\DJI_20260622122752_0007_MS_NIR_click_diagnostic.jpg,.jpg,1321.33
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 7\DJI_20260622122752_0007_D.JPG,.jpg,1295.03
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 7\DJI_20260622122752_0007_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 7\DJI_20260622122752_0007_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 7\DJI_20260622122752_0007_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 7\DJI_20260622122752_0007_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 8\_diagnostics\DJI_20260622122838_0008_D_click_diagnostic.jpg,.jpg,6360.09
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 8\_diagnostics\DJI_20260622122838_0008_MS_NIR_click_diagnostic.jpg,.jpg,1303.26
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 8\DJI_20260622122838_0008_D.JPG,.jpg,1329.3
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 8\DJI_20260622122838_0008_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 8\DJI_20260622122838_0008_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 8\DJI_20260622122838_0008_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 4\Tray 8\DJI_20260622122838_0008_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 1\_diagnostics\DJI_20260627101229_0001_D_click_diagnostic.jpg,.jpg,6211.07
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 1\_diagnostics\DJI_20260627101229_0001_MS_NIR_click_diagnostic.jpg,.jpg,1345.08
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 1\DJI_20260627101229_0001_D.JPG,.jpg,1235.05
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 1\DJI_20260627101229_0001_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 1\DJI_20260627101229_0001_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 1\DJI_20260627101229_0001_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 1\DJI_20260627101229_0001_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 3\_diagnostics\DJI_20260627101610_0003_D_click_diagnostic.jpg,.jpg,6409.17
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 3\_diagnostics\DJI_20260627101610_0003_MS_NIR_click_diagnostic.jpg,.jpg,1405.34
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 3\DJI_20260627101610_0003_D.JPG,.jpg,1310.57
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 3\DJI_20260627101610_0003_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 3\DJI_20260627101610_0003_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 3\DJI_20260627101610_0003_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 3\DJI_20260627101610_0003_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 5\_diagnostics\DJI_20260627101808_0005_D_click_diagnostic.jpg,.jpg,6344.73
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 5\_diagnostics\DJI_20260627101808_0005_MS_NIR_click_diagnostic.jpg,.jpg,1381.99
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 5\DJI_20260627101808_0005_D.JPG,.jpg,1292.14
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 5\DJI_20260627101808_0005_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 5\DJI_20260627101808_0005_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 5\DJI_20260627101808_0005_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 5\DJI_20260627101808_0005_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 6\_diagnostics\DJI_20260627101858_0006_D_click_diagnostic.jpg,.jpg,6858.43
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 6\_diagnostics\DJI_20260627101858_0006_MS_NIR_click_diagnostic.jpg,.jpg,1407.92
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 6\DJI_20260627101858_0006_D.JPG,.jpg,1374.07
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 6\DJI_20260627101858_0006_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 6\DJI_20260627101858_0006_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 6\DJI_20260627101858_0006_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 6\DJI_20260627101858_0006_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 7\_diagnostics\DJI_20260627101933_0007_D_click_diagnostic.jpg,.jpg,6708.76
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 7\_diagnostics\DJI_20260627101933_0007_MS_NIR_click_diagnostic.jpg,.jpg,1421.5
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 7\DJI_20260627101933_0007_D.JPG,.jpg,1382.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 7\DJI_20260627101933_0007_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 7\DJI_20260627101933_0007_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 7\DJI_20260627101933_0007_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 7\DJI_20260627101933_0007_MS_RE.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 8\_diagnostics\DJI_20260627102037_0008_D_click_diagnostic.jpg,.jpg,6812.75
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 8\_diagnostics\DJI_20260627102037_0008_MS_NIR_click_diagnostic.jpg,.jpg,1419.47
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 8\DJI_20260627102037_0008_D.JPG,.jpg,1463.71
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 8\DJI_20260627102037_0008_MS_G.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 8\DJI_20260627102037_0008_MS_NIR.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 8\DJI_20260627102037_0008_MS_R.TIF,.tif,1969.0
+01_Crop_Dual_Reference,01_Crop_Dual_Reference\Day 9\Tray 8\DJI_20260627102037_0008_MS_RE.TIF,.tif,1969.0
+02_Crop_Quality_Check,02_Crop_Quality_Check\_reports\crop_file_details.csv,.csv,35.17
+02_Crop_Quality_Check,02_Crop_Quality_Check\_reports\crop_qa_summary.csv,.csv,6.74
+02_Crop_Quality_Check,02_Crop_Quality_Check\_reports\crop_quality_report.xlsx,.xlsx,16.67
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_1_five_band_preview.jpg,.jpg,157.35
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_2_five_band_preview.jpg,.jpg,157.41
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_3_five_band_preview.jpg,.jpg,164.01
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_4_five_band_preview.jpg,.jpg,158.86
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_5_five_band_preview.jpg,.jpg,17.2
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_6_five_band_preview.jpg,.jpg,159.99
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_7_five_band_preview.jpg,.jpg,164.63
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_1_Tray_8_five_band_preview.jpg,.jpg,158.92
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_1_five_band_preview.jpg,.jpg,158.29
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_2_five_band_preview.jpg,.jpg,165.2
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_3_five_band_preview.jpg,.jpg,157.01
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_4_five_band_preview.jpg,.jpg,159.32
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_5_five_band_preview.jpg,.jpg,163.39
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_6_five_band_preview.jpg,.jpg,162.6
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_7_five_band_preview.jpg,.jpg,162.33
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_2_Tray_8_five_band_preview.jpg,.jpg,162.46
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_3_Tray_4_five_band_preview.jpg,.jpg,17.23
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_3_Tray_5_five_band_preview.jpg,.jpg,163.67
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_3_Tray_7_five_band_preview.jpg,.jpg,164.27
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_3_Tray_9_five_band_preview.jpg,.jpg,166.85
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_4_Tray_1_five_band_preview.jpg,.jpg,157.82
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_4_Tray_2_five_band_preview.jpg,.jpg,163.7
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_4_Tray_3_five_band_preview.jpg,.jpg,159.92
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_4_Tray_5_five_band_preview.jpg,.jpg,160.11
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_4_Tray_6_five_band_preview.jpg,.jpg,162.56
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_4_Tray_7_five_band_preview.jpg,.jpg,162.02
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_4_Tray_8_five_band_preview.jpg,.jpg,164.47
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_9_Tray_1_five_band_preview.jpg,.jpg,156.31
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_9_Tray_3_five_band_preview.jpg,.jpg,162.97
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_9_Tray_5_five_band_preview.jpg,.jpg,163.64
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_9_Tray_6_five_band_preview.jpg,.jpg,165.63
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_9_Tray_7_five_band_preview.jpg,.jpg,166.97
+02_Crop_Quality_Check,02_Crop_Quality_Check\previews\Day_9_Tray_8_five_band_preview.jpg,.jpg,170.83
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\_reports\rgb_cell_coordinates.csv,.csv,182.47
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\_reports\rgb_grid_manifest.csv,.csv,11.26
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 1\DJI_20260618123542_0001_70_cell_rgb_grid_overlay.jpg,.jpg,550.2
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 2\DJI_20260618123812_0002_70_cell_rgb_grid_overlay.jpg,.jpg,570.46
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 3\DJI_20260618124121_0003_70_cell_rgb_grid_overlay.jpg,.jpg,601.17
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 4\DJI_20260618124235_0004_70_cell_rgb_grid_overlay.jpg,.jpg,542.04
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 5\DJI_20260618124331_0005_70_cell_rgb_grid_overlay.jpg,.jpg,583.04
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 6\DJI_20260618124449_0006_70_cell_rgb_grid_overlay.jpg,.jpg,562.68
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 7\DJI_20260618124541_0007_70_cell_rgb_grid_overlay.jpg,.jpg,583.98
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 1\Tray 8\DJI_20260618124632_0008_70_cell_rgb_grid_overlay.jpg,.jpg,547.21
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 1\DJI_20260620131000_0001_70_cell_rgb_grid_overlay.jpg,.jpg,549.86
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 2\DJI_20260620131052_0002_70_cell_rgb_grid_overlay.jpg,.jpg,590.0
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 3\DJI_20260620131152_0003_70_cell_rgb_grid_overlay.jpg,.jpg,550.29
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 4\DJI_20260620131233_0004_70_cell_rgb_grid_overlay.jpg,.jpg,572.0
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 5\DJI_20260620131340_0005_70_cell_rgb_grid_overlay.jpg,.jpg,567.18
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 6\DJI_20260620131437_0006_70_cell_rgb_grid_overlay.jpg,.jpg,588.37
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 7\DJI_20260620131539_0007_70_cell_rgb_grid_overlay.jpg,.jpg,601.72
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 2\Tray 8\DJI_20260620131623_0008_70_cell_rgb_grid_overlay.jpg,.jpg,604.31
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 3\Tray 4\DJI_20260621125808_0004_70_cell_rgb_grid_overlay.jpg,.jpg,565.39
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 3\Tray 5\DJI_20260621125931_0005_70_cell_rgb_grid_overlay.jpg,.jpg,573.42
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 3\Tray 7\DJI_20260621130015_0007_70_cell_rgb_grid_overlay.jpg,.jpg,595.71
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 3\Tray 9\DJI_20260621130058_0009_70_cell_rgb_grid_overlay.jpg,.jpg,619.63
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 4\Tray 1\DJI_20260622122222_0001_70_cell_rgb_grid_overlay.jpg,.jpg,557.62
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 4\Tray 2\DJI_20260622122329_0002_70_cell_rgb_grid_overlay.jpg,.jpg,575.88
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 4\Tray 3\DJI_20260622122437_0003_70_cell_rgb_grid_overlay.jpg,.jpg,567.02
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 4\Tray 5\DJI_20260622122624_0005_70_cell_rgb_grid_overlay.jpg,.jpg,558.46
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 4\Tray 6\DJI_20260622122657_0006_70_cell_rgb_grid_overlay.jpg,.jpg,585.52
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 4\Tray 7\DJI_20260622122752_0007_70_cell_rgb_grid_overlay.jpg,.jpg,589.02
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 4\Tray 8\DJI_20260622122838_0008_70_cell_rgb_grid_overlay.jpg,.jpg,600.17
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 9\Tray 1\DJI_20260627101229_0001_70_cell_rgb_grid_overlay.jpg,.jpg,562.76
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 9\Tray 3\DJI_20260627101610_0003_70_cell_rgb_grid_overlay.jpg,.jpg,591.14
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 9\Tray 5\DJI_20260627101808_0005_70_cell_rgb_grid_overlay.jpg,.jpg,581.62
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 9\Tray 6\DJI_20260627101858_0006_70_cell_rgb_grid_overlay.jpg,.jpg,615.61
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 9\Tray 7\DJI_20260627101933_0007_70_cell_rgb_grid_overlay.jpg,.jpg,621.91
+03_Cell_Grid_Detection,03_Cell_Grid_Detection\Day 9\Tray 8\DJI_20260627102037_0008_70_cell_rgb_grid_overlay.jpg,.jpg,639.63
+04_Visible_Emergence,04_Visible_Emergence\_reports\visible_emergence_cell_results.csv,.csv,316.75
+04_Visible_Emergence,04_Visible_Emergence\_reports\visible_emergence_tray_summary.csv,.csv,13.1
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 1\DJI_20260618123542_0001_rgb_green_mask.png,.png,1.22
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 1\DJI_20260618123542_0001_visible_emergence_overlay.jpg,.jpg,573.6
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 2\DJI_20260618123812_0002_rgb_green_mask.png,.png,1.32
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 2\DJI_20260618123812_0002_visible_emergence_overlay.jpg,.jpg,588.25
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 3\DJI_20260618124121_0003_rgb_green_mask.png,.png,2.71
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 3\DJI_20260618124121_0003_visible_emergence_overlay.jpg,.jpg,626.04
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 4\DJI_20260618124235_0004_rgb_green_mask.png,.png,1.62
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 4\DJI_20260618124235_0004_visible_emergence_overlay.jpg,.jpg,569.1
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 5\DJI_20260618124331_0005_rgb_green_mask.png,.png,1.22
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 5\DJI_20260618124331_0005_visible_emergence_overlay.jpg,.jpg,607.69
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 6\DJI_20260618124449_0006_rgb_green_mask.png,.png,2.28
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 6\DJI_20260618124449_0006_visible_emergence_overlay.jpg,.jpg,586.97
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 7\DJI_20260618124541_0007_rgb_green_mask.png,.png,2.15
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 7\DJI_20260618124541_0007_visible_emergence_overlay.jpg,.jpg,607.7
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 8\DJI_20260618124632_0008_rgb_green_mask.png,.png,1.36
+04_Visible_Emergence,04_Visible_Emergence\Day 1\Tray 8\DJI_20260618124632_0008_visible_emergence_overlay.jpg,.jpg,575.9
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 1\DJI_20260620131000_0001_rgb_green_mask.png,.png,2.41
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 1\DJI_20260620131000_0001_visible_emergence_overlay.jpg,.jpg,575.55
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 2\DJI_20260620131052_0002_rgb_green_mask.png,.png,3.02
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 2\DJI_20260620131052_0002_visible_emergence_overlay.jpg,.jpg,618.01
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 3\DJI_20260620131152_0003_rgb_green_mask.png,.png,2.32
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 3\DJI_20260620131152_0003_visible_emergence_overlay.jpg,.jpg,573.33
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 4\DJI_20260620131233_0004_rgb_green_mask.png,.png,1.8
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 4\DJI_20260620131233_0004_visible_emergence_overlay.jpg,.jpg,596.65
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 5\DJI_20260620131340_0005_rgb_green_mask.png,.png,3.24
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 5\DJI_20260620131340_0005_visible_emergence_overlay.jpg,.jpg,590.69
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 6\DJI_20260620131437_0006_rgb_green_mask.png,.png,1.69
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 6\DJI_20260620131437_0006_visible_emergence_overlay.jpg,.jpg,614.54
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 7\DJI_20260620131539_0007_rgb_green_mask.png,.png,1.91
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 7\DJI_20260620131539_0007_visible_emergence_overlay.jpg,.jpg,632.23
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 8\DJI_20260620131623_0008_rgb_green_mask.png,.png,4.14
+04_Visible_Emergence,04_Visible_Emergence\Day 2\Tray 8\DJI_20260620131623_0008_visible_emergence_overlay.jpg,.jpg,626.2
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 4\DJI_20260621125808_0004_rgb_green_mask.png,.png,1.97
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 4\DJI_20260621125808_0004_visible_emergence_overlay.jpg,.jpg,598.75
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 5\DJI_20260621125931_0005_rgb_green_mask.png,.png,3.55
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 5\DJI_20260621125931_0005_visible_emergence_overlay.jpg,.jpg,607.23
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 7\DJI_20260621130015_0007_rgb_green_mask.png,.png,2.22
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 7\DJI_20260621130015_0007_visible_emergence_overlay.jpg,.jpg,625.99
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 9\DJI_20260621130058_0009_rgb_green_mask.png,.png,4.51
+04_Visible_Emergence,04_Visible_Emergence\Day 3\Tray 9\DJI_20260621130058_0009_visible_emergence_overlay.jpg,.jpg,650.24
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 1\DJI_20260622122222_0001_rgb_green_mask.png,.png,3.32
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 1\DJI_20260622122222_0001_visible_emergence_overlay.jpg,.jpg,581.92
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 2\DJI_20260622122329_0002_rgb_green_mask.png,.png,3.39
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 2\DJI_20260622122329_0002_visible_emergence_overlay.jpg,.jpg,602.04
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 3\DJI_20260622122437_0003_rgb_green_mask.png,.png,2.64
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 3\DJI_20260622122437_0003_visible_emergence_overlay.jpg,.jpg,589.72
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 5\DJI_20260622122624_0005_rgb_green_mask.png,.png,3.85
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 5\DJI_20260622122624_0005_visible_emergence_overlay.jpg,.jpg,581.13
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 6\DJI_20260622122657_0006_rgb_green_mask.png,.png,1.98
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 6\DJI_20260622122657_0006_visible_emergence_overlay.jpg,.jpg,612.83
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 7\DJI_20260622122752_0007_rgb_green_mask.png,.png,2.51
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 7\DJI_20260622122752_0007_visible_emergence_overlay.jpg,.jpg,611.64
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 8\DJI_20260622122838_0008_rgb_green_mask.png,.png,5.04
+04_Visible_Emergence,04_Visible_Emergence\Day 4\Tray 8\DJI_20260622122838_0008_visible_emergence_overlay.jpg,.jpg,623.88
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 1\DJI_20260627101229_0001_rgb_green_mask.png,.png,5.87
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 1\DJI_20260627101229_0001_visible_emergence_overlay.jpg,.jpg,586.28
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 3\DJI_20260627101610_0003_rgb_green_mask.png,.png,3.7
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 3\DJI_20260627101610_0003_visible_emergence_overlay.jpg,.jpg,612.61
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 5\DJI_20260627101808_0005_rgb_green_mask.png,.png,7.28
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 5\DJI_20260627101808_0005_visible_emergence_overlay.jpg,.jpg,602.91
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 6\DJI_20260627101858_0006_rgb_green_mask.png,.png,3.68
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 6\DJI_20260627101858_0006_visible_emergence_overlay.jpg,.jpg,646.79
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 7\DJI_20260627101933_0007_rgb_green_mask.png,.png,4.07
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 7\DJI_20260627101933_0007_visible_emergence_overlay.jpg,.jpg,642.87
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 8\DJI_20260627102037_0008_rgb_green_mask.png,.png,7.37
+04_Visible_Emergence,04_Visible_Emergence\Day 9\Tray 8\DJI_20260627102037_0008_visible_emergence_overlay.jpg,.jpg,662.69
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\_reports\rgb_daily_tray_results.csv,.csv,14.35
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\_reports\rgb_group_daily_metrics.csv,.csv,4.24
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\_reports\rgb_tray_growth_metrics.csv,.csv,1.27
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\_reports\rgb_treatment_growth_report.xlsx,.xlsx,14.01
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\charts\01_emergence_by_treatment.png,.png,124.59
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\charts\02_green_cover_by_treatment.png,.png,131.61
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\charts\03_green_cover_by_environment.png,.png,112.56
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\charts\04_emergence_by_treatment_environment.png,.png,183.2
+05_Treatment_Growth_Visuals,05_Treatment_Growth_Visuals\charts\05_green_cover_by_treatment_environment.png,.png,167.71
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\_reports\ms_cell_coordinates.csv,.csv,182.47
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\_reports\ms_grid_manifest.csv,.csv,25.09
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 1\DJI_20260618123542_0001_70_cell_ms_grid_overlay.jpg,.jpg,517.09
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 2\DJI_20260618123812_0002_70_cell_ms_grid_overlay.jpg,.jpg,517.42
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 3\DJI_20260618124121_0003_70_cell_ms_grid_overlay.jpg,.jpg,501.45
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 4\DJI_20260618124235_0004_70_cell_ms_grid_overlay.jpg,.jpg,519.29
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 5\DJI_20260618124331_0005_70_cell_ms_grid_overlay.jpg,.jpg,526.9
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 6\DJI_20260618124449_0006_70_cell_ms_grid_overlay.jpg,.jpg,490.17
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 7\DJI_20260618124541_0007_70_cell_ms_grid_overlay.jpg,.jpg,504.76
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 1\Tray 8\DJI_20260618124632_0008_70_cell_ms_grid_overlay.jpg,.jpg,502.95
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 1\DJI_20260620131000_0001_70_cell_ms_grid_overlay.jpg,.jpg,484.81
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 2\DJI_20260620131052_0002_70_cell_ms_grid_overlay.jpg,.jpg,490.4
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 3\DJI_20260620131152_0003_70_cell_ms_grid_overlay.jpg,.jpg,494.7
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 4\DJI_20260620131233_0004_70_cell_ms_grid_overlay.jpg,.jpg,516.48
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 5\DJI_20260620131340_0005_70_cell_ms_grid_overlay.jpg,.jpg,481.5
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 6\DJI_20260620131437_0006_70_cell_ms_grid_overlay.jpg,.jpg,512.56
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 7\DJI_20260620131539_0007_70_cell_ms_grid_overlay.jpg,.jpg,509.83
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 2\Tray 8\DJI_20260620131623_0008_70_cell_ms_grid_overlay.jpg,.jpg,488.57
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 3\Tray 4\DJI_20260621125808_0004_70_cell_ms_grid_overlay.jpg,.jpg,522.99
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 3\Tray 5\DJI_20260621125931_0005_70_cell_ms_grid_overlay.jpg,.jpg,485.31
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 3\Tray 7\DJI_20260621130015_0007_70_cell_ms_grid_overlay.jpg,.jpg,515.68
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 3\Tray 9\DJI_20260621130058_0009_70_cell_ms_grid_overlay.jpg,.jpg,495.37
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 4\Tray 1\DJI_20260622122222_0001_70_cell_ms_grid_overlay.jpg,.jpg,493.4
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 4\Tray 2\DJI_20260622122329_0002_70_cell_ms_grid_overlay.jpg,.jpg,497.65
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 4\Tray 3\DJI_20260622122437_0003_70_cell_ms_grid_overlay.jpg,.jpg,509.92
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 4\Tray 5\DJI_20260622122624_0005_70_cell_ms_grid_overlay.jpg,.jpg,488.27
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 4\Tray 6\DJI_20260622122657_0006_70_cell_ms_grid_overlay.jpg,.jpg,515.11
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 4\Tray 7\DJI_20260622122752_0007_70_cell_ms_grid_overlay.jpg,.jpg,512.09
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 4\Tray 8\DJI_20260622122838_0008_70_cell_ms_grid_overlay.jpg,.jpg,497.31
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 9\Tray 1\DJI_20260627101229_0001_70_cell_ms_grid_overlay.jpg,.jpg,477.32
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 9\Tray 3\DJI_20260627101610_0003_70_cell_ms_grid_overlay.jpg,.jpg,510.35
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 9\Tray 5\DJI_20260627101808_0005_70_cell_ms_grid_overlay.jpg,.jpg,484.99
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 9\Tray 6\DJI_20260627101858_0006_70_cell_ms_grid_overlay.jpg,.jpg,515.33
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 9\Tray 7\DJI_20260627101933_0007_70_cell_ms_grid_overlay.jpg,.jpg,528.25
+06_MS_Cell_Grid_Detection,06_MS_Cell_Grid_Detection\Day 9\Tray 8\DJI_20260627102037_0008_70_cell_ms_grid_overlay.jpg,.jpg,508.17
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\_reports\ms_index_cell_results.csv,.csv,818.69
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\_reports\ms_index_tray_summary.csv,.csv,6.06
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\_reports\ms_vegetation_index_report.xlsx,.xlsx,555.88
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 1\DJI_20260618123542_0001_gndvi_preview.png,.png,1376.77
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 1\DJI_20260618123542_0001_ndre_preview.png,.png,1331.39
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 1\DJI_20260618123542_0001_ndvi_preview.png,.png,1241.22
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 2\DJI_20260618123812_0002_gndvi_preview.png,.png,1385.82
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 2\DJI_20260618123812_0002_ndre_preview.png,.png,1350.56
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 2\DJI_20260618123812_0002_ndvi_preview.png,.png,1241.76
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 3\DJI_20260618124121_0003_gndvi_preview.png,.png,1429.19
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 3\DJI_20260618124121_0003_ndre_preview.png,.png,1348.72
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 3\DJI_20260618124121_0003_ndvi_preview.png,.png,1278.36
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 4\DJI_20260618124235_0004_gndvi_preview.png,.png,1375.21
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 4\DJI_20260618124235_0004_ndre_preview.png,.png,1326.32
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 4\DJI_20260618124235_0004_ndvi_preview.png,.png,1251.08
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 5\DJI_20260618124331_0005_gndvi_preview.png,.png,1395.07
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 5\DJI_20260618124331_0005_ndre_preview.png,.png,1339.52
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 5\DJI_20260618124331_0005_ndvi_preview.png,.png,1259.91
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 6\DJI_20260618124449_0006_gndvi_preview.png,.png,1401.63
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 6\DJI_20260618124449_0006_ndre_preview.png,.png,1317.38
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 6\DJI_20260618124449_0006_ndvi_preview.png,.png,1247.49
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 7\DJI_20260618124541_0007_gndvi_preview.png,.png,1368.06
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 7\DJI_20260618124541_0007_ndre_preview.png,.png,1288.86
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 7\DJI_20260618124541_0007_ndvi_preview.png,.png,1230.13
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 8\DJI_20260618124632_0008_gndvi_preview.png,.png,1378.4
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 8\DJI_20260618124632_0008_ndre_preview.png,.png,1323.54
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 1\Tray 8\DJI_20260618124632_0008_ndvi_preview.png,.png,1256.72
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 1\DJI_20260620131000_0001_gndvi_preview.png,.png,1331.36
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 1\DJI_20260620131000_0001_ndre_preview.png,.png,1281.18
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 1\DJI_20260620131000_0001_ndvi_preview.png,.png,1235.84
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 2\DJI_20260620131052_0002_gndvi_preview.png,.png,1355.93
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 2\DJI_20260620131052_0002_ndre_preview.png,.png,1292.37
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 2\DJI_20260620131052_0002_ndvi_preview.png,.png,1247.09
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 3\DJI_20260620131152_0003_gndvi_preview.png,.png,1334.17
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 3\DJI_20260620131152_0003_ndre_preview.png,.png,1285.37
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 3\DJI_20260620131152_0003_ndvi_preview.png,.png,1236.5
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 4\DJI_20260620131233_0004_gndvi_preview.png,.png,1369.53
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 4\DJI_20260620131233_0004_ndre_preview.png,.png,1322.94
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 4\DJI_20260620131233_0004_ndvi_preview.png,.png,1267.01
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 5\DJI_20260620131340_0005_gndvi_preview.png,.png,1394.42
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 5\DJI_20260620131340_0005_ndre_preview.png,.png,1325.76
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 5\DJI_20260620131340_0005_ndvi_preview.png,.png,1277.0
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 6\DJI_20260620131437_0006_gndvi_preview.png,.png,1421.22
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 6\DJI_20260620131437_0006_ndre_preview.png,.png,1360.13
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 6\DJI_20260620131437_0006_ndvi_preview.png,.png,1306.84
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 7\DJI_20260620131539_0007_gndvi_preview.png,.png,1430.77
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 7\DJI_20260620131539_0007_ndre_preview.png,.png,1381.46
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 7\DJI_20260620131539_0007_ndvi_preview.png,.png,1319.47
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 8\DJI_20260620131623_0008_gndvi_preview.png,.png,1424.46
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 8\DJI_20260620131623_0008_ndre_preview.png,.png,1357.73
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 2\Tray 8\DJI_20260620131623_0008_ndvi_preview.png,.png,1303.22
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 4\DJI_20260621125808_0004_gndvi_preview.png,.png,1449.69
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 4\DJI_20260621125808_0004_ndre_preview.png,.png,1389.88
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 4\DJI_20260621125808_0004_ndvi_preview.png,.png,1347.63
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 5\DJI_20260621125931_0005_gndvi_preview.png,.png,1456.53
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 5\DJI_20260621125931_0005_ndre_preview.png,.png,1385.65
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 5\DJI_20260621125931_0005_ndvi_preview.png,.png,1351.07
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 7\DJI_20260621130015_0007_gndvi_preview.png,.png,1513.04
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 7\DJI_20260621130015_0007_ndre_preview.png,.png,1436.47
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 7\DJI_20260621130015_0007_ndvi_preview.png,.png,1390.12
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 9\DJI_20260621130058_0009_gndvi_preview.png,.png,1453.91
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 9\DJI_20260621130058_0009_ndre_preview.png,.png,1368.16
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 3\Tray 9\DJI_20260621130058_0009_ndvi_preview.png,.png,1330.03
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 1\DJI_20260622122222_0001_gndvi_preview.png,.png,1358.21
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 1\DJI_20260622122222_0001_ndre_preview.png,.png,1316.08
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 1\DJI_20260622122222_0001_ndvi_preview.png,.png,1261.17
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 2\DJI_20260622122329_0002_gndvi_preview.png,.png,1395.37
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 2\DJI_20260622122329_0002_ndre_preview.png,.png,1334.3
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 2\DJI_20260622122329_0002_ndvi_preview.png,.png,1280.49
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 3\DJI_20260622122437_0003_gndvi_preview.png,.png,1374.48
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 3\DJI_20260622122437_0003_ndre_preview.png,.png,1330.13
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 3\DJI_20260622122437_0003_ndvi_preview.png,.png,1272.64
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 5\DJI_20260622122624_0005_gndvi_preview.png,.png,1412.89
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 5\DJI_20260622122624_0005_ndre_preview.png,.png,1352.66
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 5\DJI_20260622122624_0005_ndvi_preview.png,.png,1310.83
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 6\DJI_20260622122657_0006_gndvi_preview.png,.png,1424.23
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 6\DJI_20260622122657_0006_ndre_preview.png,.png,1367.9
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 6\DJI_20260622122657_0006_ndvi_preview.png,.png,1315.81
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 7\DJI_20260622122752_0007_gndvi_preview.png,.png,1407.67
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 7\DJI_20260622122752_0007_ndre_preview.png,.png,1349.86
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 7\DJI_20260622122752_0007_ndvi_preview.png,.png,1289.12
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 8\DJI_20260622122838_0008_gndvi_preview.png,.png,1437.99
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 8\DJI_20260622122838_0008_ndre_preview.png,.png,1361.35
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 4\Tray 8\DJI_20260622122838_0008_ndvi_preview.png,.png,1312.78
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 1\DJI_20260627101229_0001_gndvi_preview.png,.png,1337.21
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 1\DJI_20260627101229_0001_ndre_preview.png,.png,1295.08
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 1\DJI_20260627101229_0001_ndvi_preview.png,.png,1266.27
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 3\DJI_20260627101610_0003_gndvi_preview.png,.png,1387.01
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 3\DJI_20260627101610_0003_ndre_preview.png,.png,1344.38
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 3\DJI_20260627101610_0003_ndvi_preview.png,.png,1299.72
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 5\DJI_20260627101808_0005_gndvi_preview.png,.png,1406.17
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 5\DJI_20260627101808_0005_ndre_preview.png,.png,1346.55
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 5\DJI_20260627101808_0005_ndvi_preview.png,.png,1304.21
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 6\DJI_20260627101858_0006_gndvi_preview.png,.png,1447.22
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 6\DJI_20260627101858_0006_ndre_preview.png,.png,1401.3
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 6\DJI_20260627101858_0006_ndvi_preview.png,.png,1351.42
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 7\DJI_20260627101933_0007_gndvi_preview.png,.png,1485.02
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 7\DJI_20260627101933_0007_ndre_preview.png,.png,1427.11
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 7\DJI_20260627101933_0007_ndvi_preview.png,.png,1372.97
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 8\DJI_20260627102037_0008_gndvi_preview.png,.png,1486.72
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 8\DJI_20260627102037_0008_ndre_preview.png,.png,1408.74
+07_MS_Vegetation_Indices,07_MS_Vegetation_Indices\Day 9\Tray 8\DJI_20260627102037_0008_ndvi_preview.png,.png,1358.16
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\_reports\ms_daily_tray_results.csv,.csv,7.31
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\_reports\ms_group_daily_metrics.csv,.csv,6.01
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\_reports\multispectral_treatment_comparison.xlsx,.xlsx,14.26
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\charts\01_gndvi_by_treatment.png,.png,148.2
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\charts\01_ndre_by_treatment.png,.png,151.77
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\charts\01_ndvi_by_treatment.png,.png,144.47
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\charts\02_gndvi_by_treatment_environment.png,.png,229.14
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\charts\02_ndre_by_treatment_environment.png,.png,228.0
+08_MS_Treatment_Comparison,08_MS_Treatment_Comparison\charts\02_ndvi_by_treatment_environment.png,.png,203.59
+09_Second_Trial_Synthesis,09_Second_Trial_Synthesis\_reports\rgb_ms_correlations.csv,.csv,0.45
+09_Second_Trial_Synthesis,09_Second_Trial_Synthesis\_reports\second_trial_daily_synthesis.csv,.csv,5.04
+09_Second_Trial_Synthesis,09_Second_Trial_Synthesis\_reports\second_trial_group_summary.csv,.csv,0.95
+09_Second_Trial_Synthesis,09_Second_Trial_Synthesis\_reports\second_trial_master_summary.csv,.csv,2.84
+09_Second_Trial_Synthesis,09_Second_Trial_Synthesis\_reports\second_trial_synthesis.xlsx,.xlsx,12.85
+09_Second_Trial_Synthesis,09_Second_Trial_Synthesis\_reports\second_trial_synthesis_report.pdf,.pdf,891.89
+09_Second_Trial_Synthesis,09_Second_Trial_Synthesis\charts\01_normalised_day5_tray_heatmap.png,.png,120.65
+10_Report_Figure_Package,10_Report_Figure_Package\figures\05_Treatment_Growth_Visuals_01_emergence_by_treatment.png,.png,124.59
+10_Report_Figure_Package,10_Report_Figure_Package\figures\05_Treatment_Growth_Visuals_02_green_cover_by_treatment.png,.png,131.61
+10_Report_Figure_Package,10_Report_Figure_Package\figures\05_Treatment_Growth_Visuals_03_green_cover_by_environment.png,.png,112.56
+10_Report_Figure_Package,10_Report_Figure_Package\figures\05_Treatment_Growth_Visuals_04_emergence_by_treatment_environment.png,.png,183.2
+10_Report_Figure_Package,10_Report_Figure_Package\figures\05_Treatment_Growth_Visuals_05_green_cover_by_treatment_environment.png,.png,167.71
+10_Report_Figure_Package,10_Report_Figure_Package\figures\08_MS_Treatment_Comparison_01_gndvi_by_treatment.png,.png,148.2
+10_Report_Figure_Package,10_Report_Figure_Package\figures\08_MS_Treatment_Comparison_01_ndre_by_treatment.png,.png,151.77
+10_Report_Figure_Package,10_Report_Figure_Package\figures\08_MS_Treatment_Comparison_01_ndvi_by_treatment.png,.png,144.47
+10_Report_Figure_Package,10_Report_Figure_Package\figures\08_MS_Treatment_Comparison_02_gndvi_by_treatment_environment.png,.png,229.14
+10_Report_Figure_Package,10_Report_Figure_Package\figures\08_MS_Treatment_Comparison_02_ndre_by_treatment_environment.png,.png,228.0
+10_Report_Figure_Package,10_Report_Figure_Package\figures\08_MS_Treatment_Comparison_02_ndvi_by_treatment_environment.png,.png,203.59
+10_Report_Figure_Package,10_Report_Figure_Package\figures\09_Second_Trial_Synthesis_01_normalised_day5_tray_heatmap.png,.png,120.65
+10_Report_Figure_Package,10_Report_Figure_Package\reports\crop_quality_report.xlsx,.xlsx,16.67
+10_Report_Figure_Package,10_Report_Figure_Package\reports\ms_vegetation_index_report.xlsx,.xlsx,555.88
+10_Report_Figure_Package,10_Report_Figure_Package\reports\multispectral_treatment_comparison.xlsx,.xlsx,14.26
+10_Report_Figure_Package,10_Report_Figure_Package\reports\rgb_ms_correlations.csv,.csv,0.45
+10_Report_Figure_Package,10_Report_Figure_Package\reports\rgb_treatment_growth_report.xlsx,.xlsx,14.01
+10_Report_Figure_Package,10_Report_Figure_Package\reports\second_trial_daily_synthesis.csv,.csv,5.04
+10_Report_Figure_Package,10_Report_Figure_Package\reports\second_trial_group_summary.csv,.csv,0.95
+10_Report_Figure_Package,10_Report_Figure_Package\reports\second_trial_master_summary.csv,.csv,2.84
+10_Report_Figure_Package,10_Report_Figure_Package\reports\second_trial_synthesis.xlsx,.xlsx,12.85
+10_Report_Figure_Package,10_Report_Figure_Package\reports\second_trial_synthesis_report.pdf,.pdf,891.89
+10_Report_Figure_Package,10_Report_Figure_Package\Second_Trial_Report_Package.zip,.zip,2937.19
+second_trial_completion_checks.csv,second_trial_completion_checks.csv,.csv,0.44
+second_trial_output_index.csv,second_trial_output_index.csv,.csv,62.8

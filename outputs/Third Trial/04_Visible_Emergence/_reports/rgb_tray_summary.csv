@@ -1,0 +1,13 @@
+day_order,day,tray_no,tray,emerged_cells_proxy,emergence_pct_proxy,mean_green_cover_pct,median_green_cover_pct,total_green_pixels,microbe_status,stress_type,assigned_environment,treatment_group,design_group,actual_environment,watering_regime,newly_emerged_today_proxy
+1,Day 1,1,Tray 1,0,0.0,0.011645962732919252,0.0,69,No Microbe,Ideal,Inside,No Microbe | Ideal,No Microbe | Ideal | Inside,Inside,Always watered,0.0
+1,Day 1,2,Tray 2,0,0.0,0.005063462057790981,0.0,30,No Microbe,Ideal,Outside,No Microbe | Ideal,No Microbe | Ideal | Outside,Outside,Always watered,0.0
+1,Day 1,3,Tray 3,0,0.0,0.007595193086686468,0.0,45,No Microbe,Moisture,Outside,No Microbe | Moisture,No Microbe | Moisture | Outside,Outside,Moisture treatment,0.0
+1,Day 1,4,Tray 4,1,1.4285714285714286,0.021941668917094242,0.0,130,No Microbe,Heat,Alternating,No Microbe | Heat,No Microbe | Heat | Alternating,Inside,Always watered,1.0
+1,Day 1,5,Tray 5,1,1.4285714285714286,0.02025384823116392,0.0,120,Microbe,Moisture,Inside,Microbe | Moisture,Microbe | Moisture | Inside,Inside,Moisture treatment,1.0
+1,Day 1,6,Tray 6,1,1.4285714285714286,0.017553335133675397,0.0,104,Microbe,Heat,Alternating,Microbe | Heat,Microbe | Heat | Alternating,Inside,Always watered,1.0
+1,Day 1,7,Tray 7,0,0.0,0.014515257899000808,0.0,86,Microbe,Ideal,Outside,Microbe | Ideal,Microbe | Ideal | Outside,Outside,Always watered,0.0
+1,Day 1,8,Tray 8,1,1.4285714285714286,0.03510667026735079,0.011814744801512287,208,Microbe,Heat,Alternating,Microbe | Heat,Microbe | Heat | Alternating,Inside,Always watered,1.0
+1,Day 1,9,Tray 9,2,2.857142857142857,0.03932622198217661,0.011814744801512287,233,Microbe,Ideal,Inside,Microbe | Ideal,Microbe | Ideal | Inside,Inside,Always watered,2.0
+1,Day 1,10,Tray 10,0,0.0,0.011814744801512286,0.0,70,Microbe,Moisture,Outside,Microbe | Moisture,Microbe | Moisture | Outside,Outside,Moisture treatment,0.0
+1,Day 1,11,Tray 11,0,0.0,0.01502160410477991,0.0,89,No Microbe,Heat,Alternating,No Microbe | Heat,No Microbe | Heat | Alternating,Inside,Always watered,0.0
+1,Day 1,12,Tray 12,0,0.0,0.0077639751552794995,0.0,46,No Microbe,Moisture,Inside,No Microbe | Moisture,No Microbe | Moisture | Inside,Inside,Moisture treatment,0.0

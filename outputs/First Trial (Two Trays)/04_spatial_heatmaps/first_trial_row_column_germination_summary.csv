@@ -1,0 +1,103 @@
+treatment,day,axis,axis_number,germinated_cells,total_cells,germination_percent
+Microbes,1,row,1,6,10,60.0
+Microbes,1,row,2,1,10,10.0
+Microbes,1,row,3,2,10,20.0
+Microbes,1,row,4,6,10,60.0
+Microbes,1,row,5,4,10,40.0
+Microbes,1,row,6,4,10,40.0
+Microbes,1,row,7,3,10,30.0
+Microbes,1,column,1,1,7,14.29
+Microbes,1,column,2,1,7,14.29
+Microbes,1,column,3,5,7,71.43
+Microbes,1,column,4,3,7,42.86
+Microbes,1,column,5,6,7,85.71
+Microbes,1,column,6,2,7,28.57
+Microbes,1,column,7,2,7,28.57
+Microbes,1,column,8,1,7,14.29
+Microbes,1,column,9,2,7,28.57
+Microbes,1,column,10,3,7,42.86
+Microbes,3,row,1,7,10,70.0
+Microbes,3,row,2,8,10,80.0
+Microbes,3,row,3,4,10,40.0
+Microbes,3,row,4,8,10,80.0
+Microbes,3,row,5,7,10,70.0
+Microbes,3,row,6,7,10,70.0
+Microbes,3,row,7,4,10,40.0
+Microbes,3,column,1,2,7,28.57
+Microbes,3,column,2,5,7,71.43
+Microbes,3,column,3,5,7,71.43
+Microbes,3,column,4,6,7,85.71
+Microbes,3,column,5,7,7,100.0
+Microbes,3,column,6,5,7,71.43
+Microbes,3,column,7,5,7,71.43
+Microbes,3,column,8,4,7,57.14
+Microbes,3,column,9,3,7,42.86
+Microbes,3,column,10,3,7,42.86
+Microbes,4,row,1,7,10,70.0
+Microbes,4,row,2,8,10,80.0
+Microbes,4,row,3,5,10,50.0
+Microbes,4,row,4,9,10,90.0
+Microbes,4,row,5,8,10,80.0
+Microbes,4,row,6,6,10,60.0
+Microbes,4,row,7,7,10,70.0
+Microbes,4,column,1,5,7,71.43
+Microbes,4,column,2,5,7,71.43
+Microbes,4,column,3,5,7,71.43
+Microbes,4,column,4,6,7,85.71
+Microbes,4,column,5,7,7,100.0
+Microbes,4,column,6,5,7,71.43
+Microbes,4,column,7,5,7,71.43
+Microbes,4,column,8,4,7,57.14
+Microbes,4,column,9,4,7,57.14
+Microbes,4,column,10,4,7,57.14
+No Microbes,1,row,1,7,10,70.0
+No Microbes,1,row,2,7,10,70.0
+No Microbes,1,row,3,4,10,40.0
+No Microbes,1,row,4,7,10,70.0
+No Microbes,1,row,5,5,10,50.0
+No Microbes,1,row,6,2,10,20.0
+No Microbes,1,row,7,5,10,50.0
+No Microbes,1,column,1,0,7,0.0
+No Microbes,1,column,2,1,7,14.29
+No Microbes,1,column,3,6,7,85.71
+No Microbes,1,column,4,3,7,42.86
+No Microbes,1,column,5,4,7,57.14
+No Microbes,1,column,6,5,7,71.43
+No Microbes,1,column,7,7,7,100.0
+No Microbes,1,column,8,2,7,28.57
+No Microbes,1,column,9,5,7,71.43
+No Microbes,1,column,10,4,7,57.14
+No Microbes,3,row,1,8,10,80.0
+No Microbes,3,row,2,8,10,80.0
+No Microbes,3,row,3,6,10,60.0
+No Microbes,3,row,4,7,10,70.0
+No Microbes,3,row,5,6,10,60.0
+No Microbes,3,row,6,7,10,70.0
+No Microbes,3,row,7,6,10,60.0
+No Microbes,3,column,1,1,7,14.29
+No Microbes,3,column,2,2,7,28.57
+No Microbes,3,column,3,6,7,85.71
+No Microbes,3,column,4,3,7,42.86
+No Microbes,3,column,5,7,7,100.0
+No Microbes,3,column,6,6,7,85.71
+No Microbes,3,column,7,7,7,100.0
+No Microbes,3,column,8,4,7,57.14
+No Microbes,3,column,9,6,7,85.71
+No Microbes,3,column,10,6,7,85.71
+No Microbes,4,row,1,9,10,90.0
+No Microbes,4,row,2,9,10,90.0
+No Microbes,4,row,3,8,10,80.0
+No Microbes,4,row,4,9,10,90.0
+No Microbes,4,row,5,6,10,60.0
+No Microbes,4,row,6,7,10,70.0
+No Microbes,4,row,7,6,10,60.0
+No Microbes,4,column,1,1,7,14.29
+No Microbes,4,column,2,3,7,42.86
+No Microbes,4,column,3,6,7,85.71
+No Microbes,4,column,4,4,7,57.14
+No Microbes,4,column,5,7,7,100.0
+No Microbes,4,column,6,7,7,100.0
+No Microbes,4,column,7,7,7,100.0
+No Microbes,4,column,8,5,7,71.43
+No Microbes,4,column,9,7,7,100.0
+No Microbes,4,column,10,7,7,100.0
